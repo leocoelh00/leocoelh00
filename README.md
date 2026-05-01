@@ -46,10 +46,10 @@ public class Leonardo : SoftwareEngineer
 
 <p align="center">
   <a href="https://github.com/leocoelh00/MyLittleMouse-releases">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=leocoelh00&repo=MyLittleMouse-releases&bg_color=000000&title_color=F0C060&text_color=888888&icon_color=F0C060&border_color=333333" alt="MyLittleMouse" />
+    <img src="https://github-readme-stats-1grooeswo-leomanoelcoelho-8410s-projects.vercel.app/api/pin/?username=leocoelh00&repo=MyLittleMouse-releases&bg_color=000000&title_color=F0C060&text_color=888888&icon_color=F0C060&border_color=333333" alt="MyLittleMouse" />
   </a>&nbsp;
   <a href="https://github.com/leocoelh00/Api.Core.Base">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=leocoelh00&repo=Api.Core.Base&bg_color=000000&title_color=F0C060&text_color=888888&icon_color=F0C060&border_color=333333" alt="Api.Core.Base" />
+    <img src="https://github-readme-stats-1grooeswo-leomanoelcoelho-8410s-projects.vercel.app/api/pin/?username=leocoelh00&repo=Api.Core.Base&bg_color=000000&title_color=F0C060&text_color=888888&icon_color=F0C060&border_color=333333" alt="Api.Core.Base" />
   </a>
 </p>
 
@@ -64,10 +64,10 @@ public class Leonardo : SoftwareEngineer
 
 <p align="center">
   <a href="https://github.com/leocoelh00">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leocoelh00&show_icons=true&count_private=true&bg_color=000000&title_color=F0C060&text_color=888888&icon_color=F0C060&border_color=333333&ring_color=F0C060" alt="Leonardo's Stats" />
+    <img height="180em" src="https://github-readme-stats-1grooeswo-leomanoelcoelho-8410s-projects.vercel.app/api?username=leocoelh00&show_icons=true&count_private=true&bg_color=000000&title_color=F0C060&text_color=888888&icon_color=F0C060&border_color=333333&ring_color=F0C060&v=1" alt="Leonardo's Stats" />
   </a>&nbsp;&nbsp;
   <a href="https://github.com/leocoelh00">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leocoelh00&langs_count=6&layout=compact&bg_color=000000&title_color=F0C060&text_color=888888&icon_color=F0C060&border_color=333333" alt="Top Languages" />
+    <img height="180em" src="https://github-readme-stats-1grooeswo-leomanoelcoelho-8410s-projects.vercel.app/api/top-langs/?username=leocoelh00&langs_count=6&layout=compact&bg_color=000000&title_color=F0C060&text_color=888888&icon_color=F0C060&border_color=333333&v=1" alt="Top Languages" />
   </a>
 </p>
 
