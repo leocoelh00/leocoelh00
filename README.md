@@ -9,9 +9,6 @@
 <p align="center">
   <a href="https://linkedin.com/in/leonardo-manoel-coelho-32a01550" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>&nbsp;
-  <a href="https://mylittlemouses.com" target="_blank">
-    <img src="https://img.shields.io/badge/MyLittleMouse-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="MyLittleMouse" />
   </a>
 </p>
 
@@ -45,11 +42,11 @@ public class Leonardo : SoftwareEngineer
 ## `> featured_projects`
 
 <p align="center">
-  <a href="https://github.com/leocoelh00/MyLittleMouse-releases">
-    <img src="https://github-readme-stats-1grooeswo-leomanoelcoelho-8410s-projects.vercel.app/api/pin/?username=leocoelh00&repo=MyLittleMouse-releases&bg_color=000000&title_color=F0C060&text_color=888888&icon_color=F0C060&border_color=333333&description_lines_count=2" alt="MyLittleMouse" />
+  <a href="https://github.com/leocoelh00/API.Minimal.Base">
+    <img src="https://github-readme-stats-1grooeswo-leomanoelcoelho-8410s-projects.vercel.app/api/pin/?username=leocoelh00&repo=API.Minimal.Base&bg_color=000000&title_color=F0C060&text_color=888888&icon_color=F0C060&border_color=333333" alt="API.Minimal.Base" />
   </a>&nbsp;
   <a href="https://github.com/leocoelh00/Api.Core.Base">
-    <img src="https://github-readme-stats-1grooeswo-leomanoelcoelho-8410s-projects.vercel.app/api/pin/?username=leocoelh00&repo=Api.Core.Base&bg_color=000000&title_color=F0C060&text_color=888888&icon_color=F0C060&border_color=333333&description_lines_count=2" alt="Api.Core.Base" />
+    <img src="https://github-readme-stats-1grooeswo-leomanoelcoelho-8410s-projects.vercel.app/api/pin/?username=leocoelh00&repo=Api.Core.Base&bg_color=000000&title_color=F0C060&text_color=888888&icon_color=F0C060&border_color=333333" alt="Api.Core.Base" />
   </a>
 </p>
 
@@ -64,10 +61,10 @@ public class Leonardo : SoftwareEngineer
 
 <p align="center">
   <a href="https://github.com/leocoelh00">
-    <img height="180em" src="https://github-readme-stats-1grooeswo-leomanoelcoelho-8410s-projects.vercel.app/api?username=leocoelh00&show_icons=true&count_private=true&bg_color=000000&title_color=F0C060&text_color=888888&icon_color=F0C060&border_color=333333&ring_color=F0C060&v=1" alt="Leonardo's Stats" />
+    <img height="180em" src="https://github-readme-stats-1grooeswo-leomanoelcoelho-8410s-projects.vercel.app/api?username=leocoelh00&show_icons=true&count_private=true&bg_color=000000&title_color=F0C060&text_color=888888&icon_color=F0C060&border_color=333333&ring_color=F0C060" alt="Leonardo's Stats" />
   </a>&nbsp;&nbsp;
   <a href="https://github.com/leocoelh00">
-    <img height="180em" src="https://github-readme-stats-1grooeswo-leomanoelcoelho-8410s-projects.vercel.app/api/top-langs/?username=leocoelh00&langs_count=6&layout=compact&bg_color=000000&title_color=F0C060&text_color=888888&icon_color=F0C060&border_color=333333&v=1" alt="Top Languages" />
+    <img height="180em" src="https://github-readme-stats-1grooeswo-leomanoelcoelho-8410s-projects.vercel.app/api/top-langs/?username=leocoelh00&langs_count=6&layout=compact&bg_color=000000&title_color=F0C060&text_color=888888&icon_color=F0C060&border_color=333333" alt="Top Languages" />
   </a>
 </p>
 
